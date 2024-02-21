@@ -8,4 +8,4 @@ My Hotel Management Dashboard in Excel provides a comprehensive visualization of
 - Shows the Guest got Desired room or an Undesired room type.
 - Allows User to filter data with slicer by year.
 - Shows Guest Type(Single/Couple/Family).
-- ![Image 1](assets/1th.JPG)
+-![Image 1](assets/1st.JPG)
